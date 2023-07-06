@@ -22,7 +22,7 @@ export default function Home() {
       </div>
 
       <div className="mt-40">
-        <h4 className="flex justify-center"><span>&copy; </span> <span>2023 Ifeanyichukwu, Amajuoyi</span> </h4>
+        <h4 className="flex justify-center"><span>`&copy;` </span> <span>2023 Ifeanyichukwu, Amajuoyi</span> </h4>
         {/* <div className="flex flex-row mt-6">
           <h2>Github</h2>
           <h2>LinkedIn</h2>
